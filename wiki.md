@@ -1,5 +1,5 @@
 # DayZ (videogame)
-![](https://cdn.cloudflare.steamstatic.com/steam/apps/221100/header.jpg?t=1624869802)
+![](icons/header.jpg)
 
 *DayZ is an indie game created by Dean Hall and published by Bohemia Interactive. The game is an open world zombie survival game that where you are dropped in a semi-random location on the map with nothing but the clothes on your back and a fruit of some kind. You're only objective is to survive; not just zombies, but the elements and especially other players.*
 
@@ -7,7 +7,7 @@
 The game aims to be realistic in a very punishing manner. Your character has base statuses that you need to keep track of or else you'll die pretty quickly. Each stat has multiple thresholds that determine how much health is being gained or lossed. Thus, any stat that isn't health won't kill you by reaching 'zero' (really jsut the lowest threshold) but it will drain your health at it's highest rate.
 
 #### Health
-<img src="https://static.wikia.nocookie.net/dayz_gamepedia/images/4/4b/Custom_Health_1.jpg/revision/latest/scale-to-width-down/756?cb=20190412165839" width="100" height="100"/>
+<img src="icons/health.jpg" width="100" height="100"/>
 
 Your character has a starting health and if you get hit or injured then you'll lose health points. What's also true is that if any of the other stats go "into the red" (which just means very low) then your health goes down incrementally.
 
@@ -16,14 +16,14 @@ The way to get your health back to normal is to have all of the other stats sati
 
 
 #### Blood
-<img src="https://static.wikia.nocookie.net/dayz_gamepedia/images/a/a7/FullBlood.jpg/revision/latest/scale-to-width-down/756?cb=20200728064959" width="100" height="100"/>
+<img src="icons/blood.jpg" width="100" height="100"/>
 
 This stat is how much blood your character still has and really has to do with being cut because of blood loss.
 
 If you get a cut from either zombies or another player then you have to be quick to use rags or bandages in order to stop the bleeding.
 
 #### Energy
-<img src="https://static.wikia.nocookie.net/dayz_gamepedia/images/6/6b/EnergyTemp.png/revision/latest/scale-to-width-down/97?cb=20190410190651" width="100" height="100"/>
+<img src="icons/energy.png" width="100" height="100"/>
 
 This is your characters hunger. You need to make sure your character eats regularly or else the energy level goes down.
 
@@ -32,7 +32,7 @@ In the game there's a lot of ways to acquire food, all varying in their potency.
 Also, if you have the correct tools to make a fire (lighter, matches, or making a hand drill), you can cook pretty much any food in order to make it more potent. In terms of meat, you are required to cook it before eating or else you will get a disease status.
 
 #### Water
-<img src="https://static.wikia.nocookie.net/dayz_gamepedia/images/c/c0/WaterFull.png/revision/latest/scale-to-width-down/756?cb=20200730105857" width="100" height="100"/>
+<img src="icons/water.png" width="100" height="100"/>
 
 This is your characters hydration. Similar to real life, you need to stay hydrated.
 
